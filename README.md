@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Magnofn
 - 👀 I’m interested in learn about progagramming and the technology market
-- 🌱 I’m currently studying Python and studyng systems analysis and development 
 - 📫 How to reach me. email; magnovictorfn@gmail.com
 
 <!---
