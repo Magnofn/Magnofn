@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Magnofn
-- 👀 I’m interested in learn about progagramming and the technology market
-- 📫 How to reach me. email; magnovictorfn@gmail.com
+
 
 <!---
 Magnofn/Magnofn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
